@@ -14,8 +14,6 @@ Click on the mic button at the bottom right corner and start interacting...
 # Installation
 
 First clone this repository.
-
-            $ git clone https://github.com/manoharys/voice-controlled-news-app.git
             
 Install dependencies. Make sure you already have nodejs & npm installed in your system.
 
